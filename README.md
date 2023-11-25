@@ -1,5 +1,5 @@
 # Operating Systems Programs
-Comprehensive repository featuring professional-grade code implementations related to various aspects of operating systems, developed during the third semester of college.
+Welcome to my repository housing a diverse set of C programs covering various aspects of operating systems. From Linux Commands to System Calls, Creating Pipes, IPC using shared memory, Scheduling Algorithms, and classic problems like the Producer and Consumer Problem and the Dining Philosopher Problem, this collection provides practical implementations for a range of OS concepts. Additionally, delve into solutions for Inter-Process Communication using Message Queues, Banker's Algorithm, and memory management strategies such as First Fit, Best Fit, and Worst Fit. Explore the intricacies of Page Replacement Algorithms through concise and well-documented code, offering a comprehensive resource for understanding and applying operating system principles.
 
 ## Structure of the Repository
 
