@@ -1,6 +1,7 @@
 /*Implementation of First In First Out Page Replacement Algorithm*/
 
-#include < stdio.h >  
+#include <stdio.h> 
+ 
 int main()  
 {  
     int incomingStream[] = {4 , 1 , 2 , 4 , 5};  
