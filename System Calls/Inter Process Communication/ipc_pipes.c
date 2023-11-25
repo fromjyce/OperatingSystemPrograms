@@ -1,3 +1,7 @@
+/*Write a C program on UNIX that creates a parent and child process and
+establishes inter-process communication using a pipe to send a message from
+the parent to the child.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
